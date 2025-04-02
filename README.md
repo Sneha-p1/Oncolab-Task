@@ -53,8 +53,8 @@ It allows users to create transactions, filter transaction records, and download
 
 1. Clone the repository using :  
 ```  
-git clone https://github.com/Sneha-p1/Lab-DiagnosticsApp.git
-cd Lab DiagnosticsApp
+git clone https://github.com/Sneha-p1/Oncolab-Task.git
+cd  Oncolab-Task
 cd LabApp
 ```  
 2. Install Dependencies
