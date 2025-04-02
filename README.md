@@ -162,7 +162,6 @@ The application will be accessible at http://localhost:3000/.
 
 For any queries or suggestions, feel free to reach out:
 
-Email: snehaparambadan@example.com
+Email: snehaparambadan@gmail.com
 
-GitHub: Sneha-p1
 
